@@ -3,9 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Deadlock/Deadlock.iml" filepath="$PROJECT_DIR$/Deadlock/Deadlock.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../MemoryConsistencyError/MemoryConsistencyError.iml" filepath="$PROJECT_DIR$/../MemoryConsistencyError/MemoryConsistencyError.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MemoryConsistencyError/MemoryConsistencyError.iml" filepath="$PROJECT_DIR$/MemoryConsistencyError/MemoryConsistencyError.iml" />
       <module fileurl="file://$PROJECT_DIR$/SynchronizerMethod/SynchronizerMethod.iml" filepath="$PROJECT_DIR$/SynchronizerMethod/SynchronizerMethod.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../Eclipse/ConcerrencyWorkSpace/ThreadInterface/ThreadInterface.iml" filepath="$PROJECT_DIR$/../../Eclipse/ConcerrencyWorkSpace/ThreadInterface/ThreadInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadInterface/ThreadInterface.iml" filepath="$PROJECT_DIR$/ThreadInterface/ThreadInterface.iml" />
     </modules>
   </component>
 </project>
